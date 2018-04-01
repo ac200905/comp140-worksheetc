@@ -6,9 +6,9 @@
 I would like to create a 2D top down game in which the player controls a WW2 mortar and has to hit targets on a battlefield.
 
 ### Core Mechanics
-* Player controls a mortar with a fixed position at the bottom of the screen.
-* 180 degree rotation movement to aim the mortar in the x-axis.
-* Different elevations on the mortar to change the firing distance.
+* Player controls a mortar reticule on the screen.
+* Move mortar lef/right to aim the mortar in the x-axis.
+* Different elevations on the mortar to change the firing distance in the y-axis.
 * Destroy targets on the battlefield in a time limit.
 
 
